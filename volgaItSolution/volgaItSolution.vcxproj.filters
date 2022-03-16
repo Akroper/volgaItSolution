@@ -13,5 +13,29 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\fairyTail">
+      <UniqueIdentifier>{28b65843-afde-4342-95a7-9c4e43e0ed11}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\volgaIt\fairy_tail.cpp">
+      <Filter>Исходные файлы\fairyTail</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\volgaIt\main.cpp">
+      <Filter>Исходные файлы\fairyTail</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Downloads\volgaIt\fairy_tail.hpp">
+      <Filter>Исходные файлы\fairyTail</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Downloads\volgaIt\input.txt">
+      <Filter>Исходные файлы\fairyTail</Filter>
+    </Text>
   </ItemGroup>
 </Project>
