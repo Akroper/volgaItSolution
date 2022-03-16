@@ -139,15 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\volgaIt\fairy_tail.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\volgaIt\main.cpp" />
+    <ClCompile Include="fairy_tail.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="volgaIt\fairy_tail.cpp" />
+    <ClCompile Include="volgaIt\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\volgaIt\fairy_tail.hpp" />
+    <ClInclude Include="volgaIt\fairy_tail.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Downloads\volgaIt\input.txt" />
+    <Text Include="volgaIt\input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

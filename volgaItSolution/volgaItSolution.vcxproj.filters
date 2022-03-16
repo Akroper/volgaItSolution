@@ -21,20 +21,23 @@
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\volgaIt\fairy_tail.cpp">
+    <ClCompile Include="volgaIt\fairy_tail.cpp">
       <Filter>Исходные файлы\fairyTail</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\volgaIt\main.cpp">
+    <ClCompile Include="volgaIt\main.cpp">
       <Filter>Исходные файлы\fairyTail</Filter>
+    </ClCompile>
+    <ClCompile Include="fairy_tail.cpp">
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Downloads\volgaIt\fairy_tail.hpp">
+    <ClInclude Include="volgaIt\fairy_tail.hpp">
       <Filter>Исходные файлы\fairyTail</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Downloads\volgaIt\input.txt">
+    <Text Include="volgaIt\input.txt">
       <Filter>Исходные файлы\fairyTail</Filter>
     </Text>
   </ItemGroup>
