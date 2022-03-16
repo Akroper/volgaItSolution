@@ -24,7 +24,7 @@
     <ClCompile Include="fairy_tail.cpp">
       <Filter>Исходные файлы\fairyTail</Filter>
     </ClCompile>
-    <ClCompile Include="volgaIt\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
