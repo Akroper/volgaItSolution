@@ -21,9 +21,6 @@
     <ClCompile Include="volgaIt\fairy_tail.cpp">
       <Filter>Исходные файлы\fairyTail</Filter>
     </ClCompile>
-    <ClCompile Include="fairy_tail.cpp">
-      <Filter>Исходные файлы\fairyTail</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

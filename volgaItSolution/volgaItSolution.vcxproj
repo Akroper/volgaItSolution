@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="fairy_tail.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="volgaIt\fairy_tail.cpp" />
   </ItemGroup>
