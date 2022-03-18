@@ -1,5 +1,4 @@
 #include "fairy_tail.hpp"
-#include "fairy_tail.cpp"
 #include <cstdlib>
 #include <ctime>
 
@@ -43,7 +42,7 @@ int main()
 {
     srand(static_cast<unsigned int>(time(nullptr)));
     Fairyland world;
-    cout << world.canGo(Character::Ivan, Direction::Up);
+    cout << world.canGo(Character::Ivan, Direction::Down);
     //if (const int turns = walk())
     //    std::cout << "Found in " << turns << " turns" << std::endl;
     //else
