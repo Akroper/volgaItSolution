@@ -40,13 +40,11 @@ int walk()
 
 int main()
 {
+    char[10][10] worldMap;
+    pair<int, int>(0, 0) ivanPos;
+    pair<int, int>(0, 0) elenaPos;
     srand(static_cast<unsigned int>(time(nullptr)));
     Fairyland world;
     cout << world.canGo(Character::Ivan, Direction::Down);
-    //if (const int turns = walk())
-    //    std::cout << "Found in " << turns << " turns" << std::endl;
-    //else
-    //    std::cout << "Not found" << std::endl;
-
     return 0;
 }
